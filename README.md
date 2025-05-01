@@ -15,7 +15,7 @@ me = Student()
 
 ## 🗓️ Blogs 
 
-LeetCode: [https://leetcode.com/u/nyphro/](https://leetcode.com/u/silviu_hostinariu/)
+LeetCode: https://leetcode.com/u/silviu_hostinariu/
 
 **🛠️ Programming Languages:**
 
