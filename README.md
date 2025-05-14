@@ -1,4 +1,4 @@
-# ⭐ Silviu Hostinariu 
+# Silviu Hostinariu 
 
 ```python
 class Student:
