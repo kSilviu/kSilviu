@@ -20,4 +20,3 @@ LeetCode: https://leetcode.com/u/silviu_hostinariu/
 **🛠️ Programming Languages:**
 
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![C++](https://img.shields.io/badge/Code-c++-informational?style=flat&logo=cplusplus&logoColor=white)
