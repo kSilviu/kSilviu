@@ -6,7 +6,7 @@ class Student:
     def introduction(self):
         self.name = "Silviu Hostinariu"
         self.gender = "M"
-        self.age = "0xf"
+        self.age = "0010000"
         self.role = "Computer Science Student"
         self.language_spoken = ["ro_RO", "en_UK"]
 
